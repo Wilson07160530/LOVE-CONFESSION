@@ -25,7 +25,7 @@ function automatic() {wordanime();setTimeout(anime,400);}
   // Send Email via EmailJS
   emailjs.send("WilsonDelacruz", "template_qw6xld8", {
     from_name: "Para Sayo App",
-    message: "Ruth clicked Yes. She’s now your girlfriend.",
+    message: "Mila Joy Romero clicked Yes. She’s now your girlfriend.",
     reply_to: "no-reply@parasayo.com"
   }).then(
     function(response) {
